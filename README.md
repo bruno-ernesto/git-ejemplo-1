@@ -5,3 +5,5 @@ Este es mi primer cambio en Git
 Agrego esta linea de texto desde el editor en linea para hacer un Pull desde Gitbash
 
 Este texto fue agregado para hacer uso de github desktop
+
+Este tetexo es agregado desde Visual Studio Code
