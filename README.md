@@ -7,3 +7,4 @@ Agrego esta linea de texto desde el editor en linea para hacer un Pull desde Git
 Este texto fue agregado para hacer uso de github desktop
 
 Este tetexo es agregado desde Visual Studio Code
+Este tetexo es agregado desde Visual Studio Code ver 2
